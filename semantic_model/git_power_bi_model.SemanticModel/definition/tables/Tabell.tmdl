@@ -1,7 +1,7 @@
 table Tabell
 	lineageTag: 80d43cf5-8498-4906-995c-462e49fd4821
 
-	measure En = 1-1+1
+	measure En = 1-1+1-1+1
 		formatString: 0
 		lineageTag: 1abb8409-0643-4459-8297-c0a6d125d094
 
