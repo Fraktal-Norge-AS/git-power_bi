@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "git_power_bi_model"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "3d230081-ada5-4f93-8e82-613085cdff4c"
+  }
+}
